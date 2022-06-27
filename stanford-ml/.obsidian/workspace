@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "week2/week2.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 184
   },
   "right": {
     "id": "91e2b87c2c27c6c8",
